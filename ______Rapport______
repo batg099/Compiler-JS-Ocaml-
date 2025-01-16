@@ -19,4 +19,3 @@ ocamlc -o main AST.cmo lexeur.cmo parseur.cmo main.cmo
 - Le fichier test contient les test pour chaque fragments
 
 
-- Fragments: 
